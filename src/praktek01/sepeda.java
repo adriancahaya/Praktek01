@@ -15,6 +15,7 @@ public class sepeda {
     String warna_sepeda;
     String harga_sepeda;
     String merk_sepeda;
+    String jenis_sepeda;
     
     void transportasi(){
     
@@ -22,6 +23,6 @@ public class sepeda {
     System.out.println("warna_sepeda    :"+warna_sepeda);
     System.out.println("harga_sepeda    :"+harga_sepeda);
     System.out.println("merk_sepeda     :"+merk_sepeda);
-    
+    System.out.println("merk_sepeda     :"+jenis_sepeda);
 }
 }
