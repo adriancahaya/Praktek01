@@ -32,5 +32,13 @@ public class sepedaaksi {
         C.harga_sepeda="500000";
         C.merk_sepeda="phoenix";
         C.jenis_sepeda="sepeda balap";
+        
+        
+        A.transportasi();
+        System.out.println();
+        B.transportasi();
+        System.out.println();
+        C.transportasi();
+       
     }
 }
