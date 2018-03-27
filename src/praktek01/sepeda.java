@@ -11,4 +11,17 @@ package praktek01;
  */
 public class sepeda {
     
+    String bahan_sepeda;
+    String warna_sepeda;
+    String harga_sepeda;
+    String merk_sepeda;
+    
+    void transportasi(){
+    
+    System.out.println("bahan_sepeda    :"+bahan_sepeda);
+    System.out.println("warna_sepeda    :"+warna_sepeda);
+    System.out.println("harga_sepeda    :"+harga_sepeda);
+    System.out.println("merk_sepeda     :"+merk_sepeda);
+    
+}
 }
